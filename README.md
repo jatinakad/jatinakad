@@ -4,7 +4,7 @@
 📚 I am currently learning about social issues that can be solve with data and AI.  
 👫 I am looking to collaborate on the projects related to data engineering, AI/ML.  
 🌏 Connect with me:  
-    *-LinkedIn: [Click here](https://in.linkedin.com/jatinakad)  
+    *-LinkedIn: [Click here](https://www.linkedin.com/in/jatin-akad/)  
     *-Email: [Shoot me at](jatin.akad@gmail.com)
 
 <!---

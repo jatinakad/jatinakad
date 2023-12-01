@@ -5,7 +5,7 @@
 👫 I am looking to collaborate on the projects related to data engineering, AI/ML.  
 🌏 Connect with me:  
     *-LinkedIn: [Click here](https://www.linkedin.com/in/jatin-akad/)  
-    *-Email: [Shoot me at](jatin.akad@gmail.com)
+    *-Email: jatin.akad@gmail.com
 
 <!---
 jatinakad/jatinakad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
